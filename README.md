@@ -2,9 +2,9 @@
 
 ## 📌 Project Overview
 This project is an interactive **Uber Ride Analytics Dashboard** developed using **Power BI** to analyze ride bookings, revenue performance, customer behavior, vehicle trends, and location insights.  
-
 The dashboard transforms raw ride data into meaningful business insights through dynamic visualizations and KPI tracking.
 
+![Uber Ride Analytics Dashboard](Screenshot%202026-11-05%20211335.png)
 ---
 
 ## 📊 Dashboard Highlights
